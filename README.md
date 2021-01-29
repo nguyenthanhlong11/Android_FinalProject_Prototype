@@ -5,7 +5,8 @@
 + [Nguyễn Mạnh](https://github.com/manh74)
 + [Đinh Thị Hoa](https://github.com/DinhHoa23092000)
 + [Nguyễn Thành Long](https://github.com/nguyenthanhlong11)
-+ [Lê Thị Tường Vy](https://github.com/lethituongvy)</br>
++ [Lê Thị Tường Vy](https://github.com/lethituongvy)
+
 <img src="https://github.com/nguyenthanhlong11/Prototype-MobleProject-XD/blob/master/image/Login-form.png" height="600" width="300" hspace="40">
 <img src="https://github.com/nguyenthanhlong11/Prototype-MobleProject-XD/blob/master/image/Login-form2.png" height="600" width="300" hspace="40">
 <img src="https://github.com/nguyenthanhlong11/Prototype-MobleProject-XD/blob/master/image/Register.png" height="600" width="300" hspace="40">
